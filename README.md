@@ -1,5 +1,11 @@
 # 2-D-Ising-Model-MATLAB-
-## Implementations of the Ising model on ferromagnets
+
+## Requirements
+
+* MATLAB
+* Parallel computing toobox (for parallel implementation)
+
+## Series Implementations of the Ising model on ferromagnets
 
 Download and save the following files in the same directory to run the model in series:
 * initSpins.m

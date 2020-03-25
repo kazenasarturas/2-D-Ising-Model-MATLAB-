@@ -2,6 +2,8 @@
 Implementations of the Ising model on ferromagnets
 
 The process measures the 
+
+
 ![](Magnetisation.gif)
 
 

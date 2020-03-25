@@ -1,12 +1,12 @@
 # 2-D-Ising-Model-MATLAB-
 ## Implementations of the Ising model on ferromagnets
 
-1. Download and save the following files in the same directory to run the model in series:
-  1. initSpins.m
-  2. metropolis.m
-  3. energyIsing.m
-  4. magnetisationIsing.m
-  5. mainSeries.m
+Download and save the following files in the same directory to run the model in series:
+* initSpins.m
+* metropolis.m
+* energyIsing.m
+* magnetisationIsing.m
+* mainSeries.m
 
 Add the following files in the same directory to plot the results for spin configuration and magnetisation changes:
 linePlot.m

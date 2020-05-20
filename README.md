@@ -39,8 +39,8 @@ imagePlot.m displays the change in spin configuration of each element (microstat
 ![](spin_configuration.gif)
 
 
+top
 
+![](spin_configuration (1).gif)
 
-![](spin_configuration(1).gif)
-
-
+bottom

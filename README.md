@@ -39,8 +39,8 @@ imagePlot.m displays the change in spin configuration of each element (microstat
 ![](spin_configuration.gif)
 
 
-top
+Increasing the size of the array imporves the overview of this model. The simulation below shows the changing spin configurations of an 2 dimentional array with 1 million microstates.
 
 ![](spin_configuration1000x1000.gif)
 
-bottom
+
